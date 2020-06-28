@@ -10,3 +10,5 @@ Martin Seamus "Marty" McFly Sr. is an American resident of Hill Valley, Californ
 
 Marty once said:
 > Jesus, George, it was a wonder I was even born.
+
+<img src="https://vignette.wikia.nocookie.net/bttf/images/1/15/Pinheads.jpg/revision/latest?cb=20070221021618"/>
