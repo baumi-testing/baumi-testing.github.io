@@ -7,3 +7,6 @@ Martin Seamus "Marty" McFly Sr. is an American resident of Hill Valley, Californ
 * he had a tendency to be late for school
 * played lead guitar with The Pinheads and liked listening to Huey Lewis and the News and Eddie Van Halen
 * talented skateboarder
+
+Marty once said:
+> Jesus, George, it was a wonder I was even born.
